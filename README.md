@@ -33,6 +33,44 @@
 ![image](https://github.com/user-attachments/assets/3ba6fd28-626c-4635-94ee-4181a0249d64)
 ![image](https://github.com/user-attachments/assets/3aa6ad2c-d6d3-4a7a-941b-ac44898b75e1)
 
+# ejemplo 9:<blockquote> para citas
+![image](https://github.com/user-attachments/assets/fbf6bead-6126-4ae4-adb9-76adf15a1429)
+![image](https://github.com/user-attachments/assets/72d1bca3-1dc9-42b2-ad82-4c6df0e868e3)
+
+# ejemplo 10:HTML <q> para citas breves
+![image](https://github.com/user-attachments/assets/df254243-8e4d-454f-ae6f-7571552be11e)
+![image](https://github.com/user-attachments/assets/91a5e6c9-53e0-4d3c-baa6-2f8397780cfc)
+
+# ejemplo 11:<abbr> 
+![image](https://github.com/user-attachments/assets/244b7392-b8f3-44f3-808d-4f82288f244d)
+![image](https://github.com/user-attachments/assets/42047a4b-69a7-4d1c-ad17-28ca35acfec2)
+
+# ejemplo 12:<address>
+![image](https://github.com/user-attachments/assets/e92e7de5-f7e2-4a75-9344-834c2719719d)
+![image](https://github.com/user-attachments/assets/e041ba67-d47b-4f82-9286-b5879d69cedb)
+
+# ejemplo 13:<cite>
+![image](https://github.com/user-attachments/assets/3db1d5c1-1a23-465e-93b8-9f094f7ca018)
+![image](https://github.com/user-attachments/assets/d2151646-f18a-4c39-9da5-6af5c34dc337)
+
+ # ejemplo 14:<bdo>
+ ![image](https://github.com/user-attachments/assets/7c3aea6d-f873-4ab4-8cf0-3934ff1cbd1e)
+![image](https://github.com/user-attachments/assets/ef668bec-3cef-4a68-80c9-e488897032ca)
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
